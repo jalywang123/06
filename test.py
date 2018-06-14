@@ -9,6 +9,8 @@ model_dir='/home/liquan/Downloads/inception_dec_2015/'
 image='/home/liquan/CProjects/python_c_tensorflow-master/test_pic/cat.jpeg'
 
 
+
+
 #将类别ID转换为人类易读的标签
 class NodeLookup(object):
   def __init__(self,
